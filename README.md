@@ -10,5 +10,4 @@ Using my COVID-19 prediction model created [here](https://www.justinferguson.me/
 <a href="https://www.linkedin.com/in/j-b-ferguson/"><p>Justin Ferguson LinkedIn</p></a>
 <a href="mailto:justin.benjamin.ferguson@gmail.com?subject=GitHub%20Enquiry"><p>Contact</p></a>
 <br>
-<br>
 MIT LICENSE
