@@ -5,9 +5,6 @@ library(forecast) # For Boxcox and inverse Boxcox transformations
 library(readr) # Read csv files
 library(magrittr) # For pipe symbols
 
-
-
-
 # Define server logic for prediction model
 server <- function(input, output) {
     
@@ -90,10 +87,6 @@ server <- function(input, output) {
         nochange
       }
     }, ignoreNULL = FALSE)
-    
-    
-    
-    
     
     # Show text of fitted prediction
     output$text1 <- renderText(pred()[[2]])
