@@ -1,12 +1,3 @@
-library(shiny) # Shiny web apps
-library(shinydashboard)
-library(mlr) # For machine learning in R
-library(forecast) # For Boxcox and inverse Boxcox transformations
-library(readr) # Read csv files
-library(magrittr) # For pipe symbols
-
-
-
 # Define UI for prediction model
 ui <- shinyUI(dashboardPage(
   
