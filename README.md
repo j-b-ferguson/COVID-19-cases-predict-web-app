@@ -2,7 +2,7 @@
 
 Using my COVID-19 prediction model created [here](https://www.justinferguson.me/pages/covid-19-regression-analysis.html), I combine both R Shiny and R Shiny Dashboard, with HTML5 and CSS3, to design a simple, yet elegant web application to predict COVID-19 next day cases.
 
-[Go to the app!]()
+[Go to the app!](https://www.justinferguson.me/pages/covid-19-cases-predict-web-app.html)
 <br>
 <br>
 <p><b>Author</b></p>
