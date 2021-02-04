@@ -1,1 +1,2 @@
-# COVID-19-cases-predict-web-app
+# An R Shiny Web App designed to Predict COVID-19 Next Day Cases
+
