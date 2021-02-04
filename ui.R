@@ -146,20 +146,22 @@ ui <- shinyUI(dashboardPage(
           infoBox(
             "What", "is this model for?", icon = icon("line-chart"),
             subtitle = 'This model has been fitted from Victorian (Australia) COVID-19 data in order to predict tomorrow\'s cases.',
-            width = 3
+            width = 3,
+            href = 'https://www.justinferguson.me/pages/COVID-19_Aus_cleaned.html'
           ),
           
           infoBox(
             "How", "do I use this model?", icon = icon("question"),
             subtitle = 'Use 7 and 14 day COVID-19 case and test averages to make a prediction. The prediction is then compared with today\'s cases.',
-            width = 3
+            width = 3,
+            href = 'https://www.covid19data.com.au/'
           ),
           
           infoBox(
             "Where", "can I find out more?", icon = icon("book-open"),
             subtitle = 'See how the model was fitted and tested at this link. For active COVID-19 data, please visit covid19data.com.au or the WHO\'s website.',
             width = 3,
-            href = 'https://www.covid19data.com.au/'
+            href = 'https://www.justinferguson.me/pages/covid-19-regression-analysis.html'
           ),
           
           infoBox(
